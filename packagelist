@@ -43,3 +43,6 @@ lottie-ios lottie-react-native
 
 //redux
 npm i --save react-redux redux redux-persist redux-thunk @redux-devtools/core @redux-devtools/extension @redux-devtools/instrument
+
+//dev dependencies
+npm i --save-dev redux-devtools-extension yarn-upgrade-all react-native-codegen @babel/eslint-parser eslint-plugin-react-native eslint-plugin-react eslint-plugin-flowtype babel-plugin-transform-remove-console babel-plugin-root-import
