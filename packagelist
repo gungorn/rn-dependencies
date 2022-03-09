@@ -1,0 +1,45 @@
+//react-native-community
+npm i --save @react-native-community/datetimepicker
+npm i --save @react-native-community/masked-view
+npm i --save @react-native-community/slider
+
+//storage
+npm i --save @react-native-async-storage/async-storage
+npm i --save react-native-encrypted-storage
+
+//component
+npm i --save @react-native-picker/picker
+npm i --save @freakycoder/react-native-bounceable
+npm i --save react-native-balloon
+npm i --save react-native-chart-kit
+npm i --save react-native-circular-progress
+npm i --save react-native-fast-image
+npm i --save react-native-linear-gradient
+npm i --save react-native-paper
+npm i --save react-native-reanimated
+npm i --save react-native-snap-carousel
+npm i --save react-native-toast-message
+
+//local notofication
+npm i --save react-native-push-notification
+
+//firebase
+npm i --save @react-native-firebase/app @react-native-firebase/admob
+
+//tools
+npm i --save i18next react-native-localize moment react-native-console-time-polyfill
+
+
+npm i --save react-native-vector-icons
+
+//react-navigation
+npm i --save @react-navigation/bottom-tabs @react-navigation/drawer @react-navigation/material-bottom-tabs @react-navigation/material-top-tabs @react-navigation/native @react-navigation/native-stack @react-navigation/stack react-native-pager-view react-native-safe-area-context react-native-screens react-native-tab-view react-native-gesture-handler
+
+//svg
+npm i --save react-native-svg react-native-svg-transformer
+
+//lottie
+lottie-ios lottie-react-native
+
+//redux
+npm i --save react-redux redux redux-persist redux-thunk @redux-devtools/core @redux-devtools/extension @redux-devtools/instrument
